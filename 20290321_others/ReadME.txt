@@ -1,9 +1,8 @@
-1-) to play game make sure all files in one folder 
-and run python not code . 
+1-) to play game make sure all files in one folder and run python not code . 
 In visual studio code select folder which our games  in then select main.py, after select run python.
 In other developing tools make same.
 If there is an error I did make exe file of game : https://drive.google.com/file/d/1brJ-3lKtdeLS_Sufrz1k1Ysxbr_aminh/view?usp=share_link
-it is above to 1 gb
+it is above to 1 gb .
 2-) Gameplay
   w or up key for go up 
   s or down key for go down
@@ -18,6 +17,6 @@ Hints:
 	5-)There are breakpoints when you pass 1000 you will see more enemy on the screen as well as above 2000.
 	6-)Have fun :)
 
-Created by Umut Alperen Cengiz(20290321) and Ozan Cengiz (20290322)
+
 
 
